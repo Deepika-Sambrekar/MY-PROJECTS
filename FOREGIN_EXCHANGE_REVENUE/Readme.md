@@ -1,3 +1,6 @@
+**Please Note: Please go through the PDF files "FOREGIN_EXCHANGE_REVENUE_ANALYSIS_OF_BANK" to view revenue dashboard.
+**
+
 LIYA Bank Currency Exchange Analysis
 
 This project is a Power BI dashboard analysis for LIYA Bank, a currency exchange bank operating across various countries. The dashboard is built using a randomly generated dataset and provides key insights into the bank's revenue, trends, and performance metrics by country.
@@ -23,4 +26,4 @@ Technical Details
 
 
 
-**Please Note:** To view dashboards go through the PDF files.
+
