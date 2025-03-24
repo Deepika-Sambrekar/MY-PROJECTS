@@ -1,3 +1,6 @@
+**Please Note: Please go through the PDF files "Call Center KPI Overview, Diversity_Inslusio_Analysis, Retention" to view Customer Churn Analysis dashboards.**
+
+
 This project focuses on customer churn analysis using Power BI to identify key retention factors and optimize customer experience.
 By analyzing a dataset of 7,043 customers, the goal is to uncover churn trends and provide actionable insights for reducing customer attrition.
 
@@ -9,4 +12,4 @@ Key Features:
 
 
 
-**Please Note:** To view dashboards go through the PDF files.
+
