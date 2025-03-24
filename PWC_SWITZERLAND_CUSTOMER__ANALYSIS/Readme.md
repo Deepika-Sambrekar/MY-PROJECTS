@@ -8,4 +8,5 @@ Key Features:
 - Business Impact: Proposed targeted retention efforts, such as loyalty incentives and digital payment optimizations, to reduce churn.
 
 
-<span style="color: red;">To view dashboards go through the PDF files.</span>
+
+**Please Note:** To view dashboards go through the PDF files.
