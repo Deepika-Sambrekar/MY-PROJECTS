@@ -7,4 +7,5 @@ Key Features:
 - Visualization: Created interactive Power BI dashboards to track KPIs and support data-driven retention strategies.
 - Business Impact: Proposed targeted retention efforts, such as loyalty incentives and digital payment optimizations, to reduce churn.
 
-**To view dashboards go through the PDF files.**
+
+<span style="color: red;">**To view dashboards go through the PDF files.**</span>
