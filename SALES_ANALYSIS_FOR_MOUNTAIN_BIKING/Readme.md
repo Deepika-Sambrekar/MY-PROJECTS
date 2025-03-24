@@ -1,3 +1,7 @@
+**Please Note:**  Please go through the PDF files to view dashboards.
+
+
+
 The goal of this project is to optimize revenue generation for a mountain biking company through the analysis of past sales data. Finding seasonal patterns, tracking performance indicators, and learning about client preferences were all intended to help with strategic decision-making.
 
 Key Features:
@@ -15,4 +19,4 @@ Technologies Used:
 
 
 
-**Please Note:** To view dashboards go through the PDF files.
+
