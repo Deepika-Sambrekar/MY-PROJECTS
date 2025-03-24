@@ -1,6 +1,5 @@
-**Please Note:**  Please go through the PDF files "Sales_Analysis_Mountain_Biking_Company" to view dashboards.
-
-
+**Please Note:**  Please go through the PDF files "Sales_Analysis_Mountain_Biking_Company" to view sales dashboard.**
+**
 
 The goal of this project is to optimize revenue generation for a mountain biking company through the analysis of past sales data. Finding seasonal patterns, tracking performance indicators, and learning about client preferences were all intended to help with strategic decision-making.
 
