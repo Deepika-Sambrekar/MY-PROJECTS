@@ -12,3 +12,7 @@ Technologies Used:
 - Python: Data cleaning, transformation, and exploratory data analysis (EDA).
 - Power BI: Creation of interactive dashboards and real-time visualizations.
 - MySQL: Querying and managing sales data stored in relational databases.
+
+
+
+<span style="color: red;">To view dashboards go through the PDF files.</span>
