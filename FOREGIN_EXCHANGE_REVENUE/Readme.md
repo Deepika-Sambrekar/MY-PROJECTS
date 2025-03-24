@@ -20,3 +20,7 @@ Technical Details
 - Line Chart for revenue trends.
 - Pareto Chart for cumulative revenue analysis.
 - Table summarizing revenue breakdown and cumulative percentage contributions.
+
+
+
+**Please Note:** To view dashboards go through the PDF files.
