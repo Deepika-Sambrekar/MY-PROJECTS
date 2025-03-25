@@ -16,6 +16,8 @@ Technologies Used:
 - Power BI: Creation of interactive dashboards and real-time visualizations.
 - MySQL: Querying and managing sales data stored in relational databases.
 
+
+![Sales Dashboard](Sales_Part1.png)
 ![Sales Dashboard](Sales_Part2.png)
 
 
