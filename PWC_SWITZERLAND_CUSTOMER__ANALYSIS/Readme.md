@@ -1,4 +1,4 @@
-**Please Note: Please go through the PDF files "Call Center KPI Overview, Diversity_Inslusio_Analysis, Retention" to view Customer Churn Analysis dashboards.**
+**Please Note:  Please scroll down to view Custumer Churn Analysis dashboards for "Call Center KPI Overview, Diversity_Inslusio_Analysis, Retention" projects.**
 
 
 This project focuses on customer churn analysis using Power BI to identify key retention factors and optimize customer experience.
