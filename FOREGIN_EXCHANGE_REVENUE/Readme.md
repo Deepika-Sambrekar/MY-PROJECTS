@@ -1,4 +1,5 @@
-**Please Note: Please go through the PDF files "FOREGIN_EXCHANGE_REVENUE_ANALYSIS_OF_BANK" to view revenue dashboard.**
+**Please Note: Please go through the PDF files "FOREGIN_EXCHANGE_REVENUE_ANALYSIS_OF_BANK" to view sales dashboard.**
+
 
 
 LIYA Bank Currency Exchange Analysis
