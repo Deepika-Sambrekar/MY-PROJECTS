@@ -11,5 +11,7 @@ Key Features:
 - Business Impact: Proposed targeted retention efforts, such as loyalty incentives and digital payment optimizations, to reduce churn.
 
 
-
+![Sales Dashboard](Call_Center_KPI_Overwiew.png)
+![Sales Dashboard](Diversity_Inclusion_Analysis.png)
+![Sales Dashboard](Retention.png)
 
