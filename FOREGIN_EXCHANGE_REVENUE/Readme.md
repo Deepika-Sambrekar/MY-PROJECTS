@@ -25,5 +25,9 @@ Technical Details
 - Table summarizing revenue breakdown and cumulative percentage contributions.
 
 
+![Sales Dashboard](FOREGIN_REVENUE_Part1.png)
+![Sales Dashboard](FOREGIN_REVENUE_Part2.png)
+
+
 
 
