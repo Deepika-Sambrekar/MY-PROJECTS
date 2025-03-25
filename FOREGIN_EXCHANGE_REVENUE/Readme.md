@@ -1,4 +1,4 @@
-**Please Note: Please go through the PDF files "FOREGIN_EXCHANGE_REVENUE_ANALYSIS_OF_BANK" to view sales dashboard.**
+**Please Note:  Please scroll down to view FOREX Revenue dashboards for "FOREGIN_EXCHANGE_REVENUE_ANALYSIS_OF_BANK" project.**
 
 
 
