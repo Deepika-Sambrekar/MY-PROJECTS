@@ -1,5 +1,5 @@
 # Yelp Business Review Analytics (AWS S3 + Snowflake + Python + SQL)
-![Concept Diagram](Concept.JPG)
+
 
 End to end semi structured analytics pipeline on the Yelp Academic Dataset. I split a ~5GB reviews JSONL file into upload friendly shards using Python, staged raw JSON in AWS S3, bulk loaded into Snowflake as VARIANT, flattened into relational tables, enriched each review with sentiment via a Snowflake Python UDF (TextBlob polarity), and answered business questions using SQL analytics. Presented the SQL Analytics as `Tableau` stories (Scroll below to see).
 
